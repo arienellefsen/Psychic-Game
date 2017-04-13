@@ -10,3 +10,27 @@ h1.text-title {
     font-weight: bold;
     color: #00a1e0;
 }
+
+#win:before {
+    content: " \f118";
+    font-family: FontAwesome;
+    font-size: 24px;
+    color: #ffce00;
+    padding-right: 10px;
+}
+
+#loose:before {
+    content: " \f119";
+    font-family: FontAwesome;
+    font-size: 24px;
+    color: #ffce00;
+    padding-right: 10px;
+}
+
+#guess-left:before {
+    content: " \f242";
+    font-family: FontAwesome;
+    font-size: 24px;
+    color: #ffce00;
+    padding-right: 10px;
+}
