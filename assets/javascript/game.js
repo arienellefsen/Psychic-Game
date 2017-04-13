@@ -1,3 +1,13 @@
+//Pseudocode
+// 1 - Randomly generates a letter
+// 2 - Listen to keypress to get user's input
+// 3 - Store users input in a array
+// 4 - Create variables to store guesses, points and score
+// 5 - Create object with methods
+// 6 - Win the game if you guess correctly the random letter
+// 7 - Loose after try 10 times  
+
+
 //Global Variables
 var guesses = []; // guesses will be included in this array
 var lives = 10; // Number of Lives
