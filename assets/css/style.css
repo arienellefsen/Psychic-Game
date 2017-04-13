@@ -1,0 +1,12 @@
+.container {
+    border: 2px solid #00a1e0;
+    padding-left: 50px !important;
+    padding-top: 50px;
+    padding-bottom: 120px;
+    margin-top: 90px;
+}
+
+h1.text-title {
+    font-weight: bold;
+    color: #00a1e0;
+}
